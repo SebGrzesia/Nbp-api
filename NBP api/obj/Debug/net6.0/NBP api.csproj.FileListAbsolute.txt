@@ -1,0 +1,96 @@
+D:\c# projekty\NBP API\NBP api\NBP api\bin\Debug\net6.0\appsettings.Development.json
+D:\c# projekty\NBP API\NBP api\NBP api\bin\Debug\net6.0\appsettings.json
+D:\c# projekty\NBP API\NBP api\NBP api\bin\Debug\net6.0\NBP api.exe
+D:\c# projekty\NBP API\NBP api\NBP api\bin\Debug\net6.0\NBP api.deps.json
+D:\c# projekty\NBP API\NBP api\NBP api\bin\Debug\net6.0\NBP api.runtimeconfig.json
+D:\c# projekty\NBP API\NBP api\NBP api\bin\Debug\net6.0\NBP api.dll
+D:\c# projekty\NBP API\NBP api\NBP api\bin\Debug\net6.0\NBP api.pdb
+D:\c# projekty\NBP API\NBP api\NBP api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\c# projekty\NBP API\NBP api\NBP api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\c# projekty\NBP API\NBP api\NBP api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\c# projekty\NBP API\NBP api\NBP api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\c# projekty\NBP API\NBP api\NBP api\obj\Debug\net6.0\NBP api.csproj.AssemblyReference.cache
+D:\c# projekty\NBP API\NBP api\NBP api\obj\Debug\net6.0\NBP api.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# projekty\NBP API\NBP api\NBP api\obj\Debug\net6.0\NBP api.AssemblyInfoInputs.cache
+D:\c# projekty\NBP API\NBP api\NBP api\obj\Debug\net6.0\NBP api.AssemblyInfo.cs
+D:\c# projekty\NBP API\NBP api\NBP api\obj\Debug\net6.0\NBP api.csproj.CoreCompileInputs.cache
+D:\c# projekty\NBP API\NBP api\NBP api\obj\Debug\net6.0\NBP api.MvcApplicationPartsAssemblyInfo.cs
+D:\c# projekty\NBP API\NBP api\NBP api\obj\Debug\net6.0\NBP api.MvcApplicationPartsAssemblyInfo.cache
+D:\c# projekty\NBP API\NBP api\NBP api\obj\Debug\net6.0\staticwebassets\msbuild.NBP api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\c# projekty\NBP API\NBP api\NBP api\obj\Debug\net6.0\staticwebassets\msbuild.build.NBP api.props
+D:\c# projekty\NBP API\NBP api\NBP api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.NBP api.props
+D:\c# projekty\NBP API\NBP api\NBP api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.NBP api.props
+D:\c# projekty\NBP API\NBP api\NBP api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\c# projekty\NBP API\NBP api\NBP api\obj\Debug\net6.0\staticwebassets.build.json
+D:\c# projekty\NBP API\NBP api\NBP api\obj\Debug\net6.0\staticwebassets.development.json
+D:\c# projekty\NBP API\NBP api\NBP api\obj\Debug\net6.0\scopedcss\bundle\NBP api.styles.css
+D:\c# projekty\NBP API\NBP api\NBP api\obj\Debug\net6.0\NBP api.csproj.CopyComplete
+D:\c# projekty\NBP API\NBP api\NBP api\obj\Debug\net6.0\NBP api.dll
+D:\c# projekty\NBP API\NBP api\NBP api\obj\Debug\net6.0\refint\NBP api.dll
+D:\c# projekty\NBP API\NBP api\NBP api\obj\Debug\net6.0\NBP api.pdb
+D:\c# projekty\NBP API\NBP api\NBP api\obj\Debug\net6.0\NBP api.genruntimeconfig.cache
+D:\c# projekty\NBP API\NBP api\NBP api\obj\Debug\net6.0\ref\NBP api.dll
+D:\Projekty\NBP Api\NBP API\NBP api\bin\Debug\net6.0\appsettings.Development.json
+D:\Projekty\NBP Api\NBP API\NBP api\bin\Debug\net6.0\appsettings.json
+D:\Projekty\NBP Api\NBP API\NBP api\bin\Debug\net6.0\NBP api.exe
+D:\Projekty\NBP Api\NBP API\NBP api\bin\Debug\net6.0\NBP api.deps.json
+D:\Projekty\NBP Api\NBP API\NBP api\bin\Debug\net6.0\NBP api.runtimeconfig.json
+D:\Projekty\NBP Api\NBP API\NBP api\bin\Debug\net6.0\NBP api.dll
+D:\Projekty\NBP Api\NBP API\NBP api\bin\Debug\net6.0\NBP api.pdb
+D:\Projekty\NBP Api\NBP API\NBP api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Projekty\NBP Api\NBP API\NBP api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projekty\NBP Api\NBP API\NBP api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projekty\NBP Api\NBP API\NBP api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projekty\NBP Api\NBP API\NBP api\obj\Debug\net6.0\NBP api.csproj.AssemblyReference.cache
+D:\Projekty\NBP Api\NBP API\NBP api\obj\Debug\net6.0\NBP api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projekty\NBP Api\NBP API\NBP api\obj\Debug\net6.0\NBP api.AssemblyInfoInputs.cache
+D:\Projekty\NBP Api\NBP API\NBP api\obj\Debug\net6.0\NBP api.AssemblyInfo.cs
+D:\Projekty\NBP Api\NBP API\NBP api\obj\Debug\net6.0\NBP api.csproj.CoreCompileInputs.cache
+D:\Projekty\NBP Api\NBP API\NBP api\obj\Debug\net6.0\NBP api.MvcApplicationPartsAssemblyInfo.cs
+D:\Projekty\NBP Api\NBP API\NBP api\obj\Debug\net6.0\NBP api.MvcApplicationPartsAssemblyInfo.cache
+D:\Projekty\NBP Api\NBP API\NBP api\obj\Debug\net6.0\staticwebassets\msbuild.NBP api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projekty\NBP Api\NBP API\NBP api\obj\Debug\net6.0\staticwebassets\msbuild.build.NBP api.props
+D:\Projekty\NBP Api\NBP API\NBP api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.NBP api.props
+D:\Projekty\NBP Api\NBP API\NBP api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.NBP api.props
+D:\Projekty\NBP Api\NBP API\NBP api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Projekty\NBP Api\NBP API\NBP api\obj\Debug\net6.0\staticwebassets.build.json
+D:\Projekty\NBP Api\NBP API\NBP api\obj\Debug\net6.0\staticwebassets.development.json
+D:\Projekty\NBP Api\NBP API\NBP api\obj\Debug\net6.0\scopedcss\bundle\NBP api.styles.css
+D:\Projekty\NBP Api\NBP API\NBP api\obj\Debug\net6.0\NBP api.csproj.CopyComplete
+D:\Projekty\NBP Api\NBP API\NBP api\obj\Debug\net6.0\NBP api.dll
+D:\Projekty\NBP Api\NBP API\NBP api\obj\Debug\net6.0\refint\NBP api.dll
+D:\Projekty\NBP Api\NBP API\NBP api\obj\Debug\net6.0\NBP api.pdb
+D:\Projekty\NBP Api\NBP API\NBP api\obj\Debug\net6.0\NBP api.genruntimeconfig.cache
+D:\Projekty\NBP Api\NBP API\NBP api\obj\Debug\net6.0\ref\NBP api.dll
+D:\Projekty\NbpApi\NBP api\bin\Debug\net6.0\appsettings.Development.json
+D:\Projekty\NbpApi\NBP api\bin\Debug\net6.0\appsettings.json
+D:\Projekty\NbpApi\NBP api\bin\Debug\net6.0\NBP api.exe
+D:\Projekty\NbpApi\NBP api\bin\Debug\net6.0\NBP api.deps.json
+D:\Projekty\NbpApi\NBP api\bin\Debug\net6.0\NBP api.runtimeconfig.json
+D:\Projekty\NbpApi\NBP api\bin\Debug\net6.0\NBP api.dll
+D:\Projekty\NbpApi\NBP api\bin\Debug\net6.0\NBP api.pdb
+D:\Projekty\NbpApi\NBP api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Projekty\NbpApi\NBP api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projekty\NbpApi\NBP api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projekty\NbpApi\NBP api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projekty\NbpApi\NBP api\obj\Debug\net6.0\NBP api.csproj.AssemblyReference.cache
+D:\Projekty\NbpApi\NBP api\obj\Debug\net6.0\NBP api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projekty\NbpApi\NBP api\obj\Debug\net6.0\NBP api.AssemblyInfoInputs.cache
+D:\Projekty\NbpApi\NBP api\obj\Debug\net6.0\NBP api.AssemblyInfo.cs
+D:\Projekty\NbpApi\NBP api\obj\Debug\net6.0\NBP api.csproj.CoreCompileInputs.cache
+D:\Projekty\NbpApi\NBP api\obj\Debug\net6.0\NBP api.MvcApplicationPartsAssemblyInfo.cs
+D:\Projekty\NbpApi\NBP api\obj\Debug\net6.0\NBP api.MvcApplicationPartsAssemblyInfo.cache
+D:\Projekty\NbpApi\NBP api\obj\Debug\net6.0\staticwebassets\msbuild.NBP api.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projekty\NbpApi\NBP api\obj\Debug\net6.0\staticwebassets\msbuild.build.NBP api.props
+D:\Projekty\NbpApi\NBP api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.NBP api.props
+D:\Projekty\NbpApi\NBP api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.NBP api.props
+D:\Projekty\NbpApi\NBP api\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Projekty\NbpApi\NBP api\obj\Debug\net6.0\staticwebassets.build.json
+D:\Projekty\NbpApi\NBP api\obj\Debug\net6.0\staticwebassets.development.json
+D:\Projekty\NbpApi\NBP api\obj\Debug\net6.0\scopedcss\bundle\NBP api.styles.css
+D:\Projekty\NbpApi\NBP api\obj\Debug\net6.0\NBP api.csproj.CopyComplete
+D:\Projekty\NbpApi\NBP api\obj\Debug\net6.0\NBP api.dll
+D:\Projekty\NbpApi\NBP api\obj\Debug\net6.0\refint\NBP api.dll
+D:\Projekty\NbpApi\NBP api\obj\Debug\net6.0\NBP api.pdb
+D:\Projekty\NbpApi\NBP api\obj\Debug\net6.0\NBP api.genruntimeconfig.cache
+D:\Projekty\NbpApi\NBP api\obj\Debug\net6.0\ref\NBP api.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NBP api", "NBP api\NBP api.csproj", "{12CB16EA-8150-42D2-9C9F-B39DB6E1C737}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12CB16EA-8150-42D2-9C9F-B39DB6E1C737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12CB16EA-8150-42D2-9C9F-B39DB6E1C737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12CB16EA-8150-42D2-9C9F-B39DB6E1C737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12CB16EA-8150-42D2-9C9F-B39DB6E1C737}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69977EFF-3FD7-4092-B294-61F136B1F06B}
+	EndGlobalSection
+EndGlobal
